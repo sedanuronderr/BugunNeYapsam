@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BugunNeYapsam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="ui_register">UI Register</string>
+
+    <string name="registerr">REGISTER</string>
+
+    <string name="loginn">LOGIN</string>
+    <string name="ui_login">UI Login</string>
+    <string name="signout">SignOut</string>
+</resources>

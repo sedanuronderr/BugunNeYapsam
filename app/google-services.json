@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278612419914",
+    "firebase_url": "https://yemekuygulamasi-91762-default-rtdb.firebaseio.com",
+    "project_id": "yemekuygulamasi-91762",
+    "storage_bucket": "yemekuygulamasi-91762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278612419914:android:1198ccfea541416e1a8db3",
+        "android_client_info": {
+          "package_name": "com.example.bugunneyapsam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278612419914-o9ar5g4l2l0dturefr2qkuq89aqv07m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0J8bas41xwW80gmKNGehV1WzJjQu70lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278612419914-o9ar5g4l2l0dturefr2qkuq89aqv07m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
