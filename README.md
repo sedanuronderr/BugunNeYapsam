@@ -1,5 +1,5 @@
 # BugunNeYapsam
-# Bu projede Firebase veritabanı,Databinding,Fragment,Adapter gibi yöntemler kullanıldı.
+# Bu projede Firebase veritabanı,Databinding,Fragment,Adapter kütüphaneler kullanıldı.
 ![capture_20220112224441142](https://user-images.githubusercontent.com/56538177/149211542-9cb0cee8-0d40-480e-8263-fde79e45dee7.jpg)
 ![capture_20220112224425496](https://user-images.githubusercontent.com/56538177/149211579-2c17f7a1-1ef0-4a1f-968a-85f083073c9c.jpg)
 ![capture_20220112224528931](https://user-images.githubusercontent.com/56538177/149211550-c61b8ec7-3d2f-456d-b8eb-bc80611d5336.jpg)
