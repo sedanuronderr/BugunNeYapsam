@@ -1,5 +1,5 @@
 # BugunNeYapsam?
-### Bu projede Firebase veritabanı,Databinding,Fragment,Adapter kütüphaneler kullanıldı.
+###  Firebase veritabanı,Databinding,Fragment,Adapter Jetpack libraries were used in the project..
 
 
 <table>
